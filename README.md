@@ -17,7 +17,7 @@
 - [Climate change now detectable from any single day of weather at global scale](https://www.nature.com/articles/s41558-019-0666-7.epdf?author_access_token=4M8-EcJtFxH_jmyWCAoz39RgN0jAjWel9jnR3ZoTv0OdMx1oJ3ZWa7BKzSg7sgojrZkS3XyaoGGEprx6mTbk-I7nzwcz-JiwcWUvc-q-6L4q6CtnA_imZNvKYWRoRWhHRJb6VkSFg-Fe06c24IhfwQ%3D%3D)
 
 ## Datasets
-
+- [Historical Air Quality](https://console.cloud.google.com/marketplace/details/epa/historical-air-quality?filter=solution-type:dataset&filter=category:climate&id=198c2178-3986-4182-a7c7-4c9ae81dfc5d)
 
 ## Conferences
 - [Climatechange.ai](https://www.climatechange.ai) - A group of volunteers from academia and industry who believe in using machine learning, where it is relevant, to help tackle the climate crisis.
