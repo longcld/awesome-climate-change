@@ -9,6 +9,7 @@
 - [Documentaries](#Documentaries)
 - [Essays](#Essays)
 - [Books](#Books)
+- [Visualization](#Visualization)
 
 
 ## Papers
@@ -32,4 +33,6 @@
 ## Books
 - [Without the hot air](https://www.withouthotair.com) - Understand about energy and how to make sustainable energy
 
-
+## Visualization
+- [Global Foot print](http://data.footprintnetwork.org/#/)
+- [Air Quality Visual](https://www.airvisual.com/earth?nav)
