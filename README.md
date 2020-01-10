@@ -15,6 +15,7 @@
 ## Papers
 - [Tackling Climate Change with Machine Learning](https://www.climatechange.ai/summaries) - Climatechange.ai's paper
 - [Climate change now detectable from any single day of weather at global scale](https://www.nature.com/articles/s41558-019-0666-7.epdf?author_access_token=4M8-EcJtFxH_jmyWCAoz39RgN0jAjWel9jnR3ZoTv0OdMx1oJ3ZWa7BKzSg7sgojrZkS3XyaoGGEprx6mTbk-I7nzwcz-JiwcWUvc-q-6L4q6CtnA_imZNvKYWRoRWhHRJb6VkSFg-Fe06c24IhfwQ%3D%3D)
+- [Climate-smart planning platform](https://www.climatesmartplanning.org/data.html) - A platform that gather all intersting data that are realted to climate change
 
 ## Datasets
 - [Historical Air Quality](https://console.cloud.google.com/marketplace/details/epa/historical-air-quality?filter=solution-type:dataset&filter=category:climate&id=198c2178-3986-4182-a7c7-4c9ae81dfc5d)
